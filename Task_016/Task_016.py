@@ -1,5 +1,3 @@
-from msilib import sequence
-
 n = int(input('Введите число: ')) 
 
 def get_squerence(n):
